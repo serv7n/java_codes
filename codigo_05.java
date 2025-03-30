@@ -2,7 +2,12 @@
 public class codigo_05 {
     public static void main(String[] args) {
         // enquanto(0, 10, "par");
-        lista();
+        // lista();
+    }
+    static void para(){
+        for(int i = 0; i < 10; i++){
+            System.out.println(i);
+        }
     }
     public static void lista(){
         String[][] conversas =  {
