@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class codigo_03 {
+public class Codigo_03 {
     public static void main(String[] args) {
         System.out.println("Digite um numero entre 1 e 10");
         Scanner scan = new Scanner(System.in);
@@ -36,7 +36,6 @@ public class codigo_03 {
 
             default:
                 System.out.println("O seu numero e INVALIDO");
-
                 break;
         }
     }

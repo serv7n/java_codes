@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class codigo_01 {
+public class Codigo_01 {
     public static void main(String[] args){
         final Scanner scan = new Scanner(System.in);
         System.out.print("Digite seu nome: ");

@@ -1,5 +1,5 @@
 // loops
-public class codigo_05 {
+public class Codigo_05 {
     public static void main(String[] args) {
         // enquanto(0, 10, "par");
         // lista();
